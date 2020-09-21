@@ -66,3 +66,7 @@ export default App;
  10. async , await
  ko.javascript.info/async-await 참조
 
+<div>
+  <span>ddd</span>
+  <span> 1223</span>
+</div>
